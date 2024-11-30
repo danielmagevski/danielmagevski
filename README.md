@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,aws,gcp,kubernetes,docker,apple,bash,bitbucket,cloudflare,discord,github,grafana,linux,ubuntu,windows,githubactions,nginx,powershell,prometheus,vscode,ansible,terraform,jenkins,py" />
+    <img src="https://skillicons.dev/icons?i=git,azure,aws,gcp,kubernetes,docker,apple,bash,bitbucket,cloudflare,discord,github,grafana,linux,ubuntu,windows,githubactions,nginx,powershell,prometheus,vscode,ansible,terraform,jenkins,py,html,css,js,nodejs,postman " />
   </a>
 </p>
